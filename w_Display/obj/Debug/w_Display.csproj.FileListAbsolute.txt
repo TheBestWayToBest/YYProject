@@ -1,0 +1,8 @@
+E:\岳阳\YYProject\w_Display\bin\Debug\w_Display.exe
+E:\岳阳\YYProject\w_Display\bin\Debug\w_Display.pdb
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.csprojAssemblyReference.cache
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.Properties.Resources.resources
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.csproj.GenerateResource.cache
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.csproj.CoreCompileInputs.cache
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.exe
+E:\岳阳\YYProject\w_Display\obj\Debug\w_Display.pdb
